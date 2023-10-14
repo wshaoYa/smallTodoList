@@ -14,7 +14,7 @@ var (
 func InitMySQL() {
 	var (
 		username = "root"
-		pwd      = "sw6813329"
+		pwd      = "root"
 		db       = "person_practice"
 		ip       = "localhost"
 		port     = 3306
